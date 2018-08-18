@@ -5,9 +5,12 @@
   - `vue-cli`
     - `npm install -g @vue/cli`
     - [Link to Documentation](https://cli.vuejs.org/guide/)
+    - [Link to Documentation](https://github.com/kaorun343/vue-property-decorator)
   - `vue-class-component` 
     - A plugin to use classes for components via a @decorator
     - [Link to GitHub](vue-class-component)
+  - `vue-property-decorator`
+    - Goes hand-in-hand with `vue-class-component` to define certain Vue component configurations via @decorators instead of the regular options object
   - [TypeScript Support](https://vuejs.org/v2/guide/typescript.html) documentation
     - You can generate a TypeScript-enabled project from the CLI
   - **Vetur** – A VSCode extension for Vue editing
